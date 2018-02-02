@@ -12,7 +12,7 @@ Here is it explained in the Turbolinks repo -
 
 ## Install
 
-https://chrome.google.com/webstore/detail/khjpgjjkndhlnokfmfpfphpigeoinnim/publish-delayed
+https://chrome.google.com/webstore/detail/fastr/khjpgjjkndhlnokfmfpfphpigeoinnim
 
 **OR**
 
