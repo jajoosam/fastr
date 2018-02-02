@@ -1,2 +1,25 @@
-# fastr
-Fastr Pages - through less refreshes.
+# Fastr
+
+![rocket logo](extension/icon.png)
+
+Fastr is a chrome extension based on [Turbolinks.js](https://github.com/turbolinks/turbolinks)
+
+It makes a faster user experience possible, because there are generally lesser reloads and browser refreshes.
+
+Here is it explained in the Turbolinks repo - 
+
+>Get the performance benefits of a single-page application without the added complexity of a client-side JavaScript framework. Use HTML to render your views on the server side and link to pages as usual. When you follow a link, Turbolinks automatically fetches the page, swaps in its <body>, and merges its <head>, all without incurring the cost of a full page load.
+
+## Install
+
+https://chrome.google.com/webstore/detail/khjpgjjkndhlnokfmfpfphpigeoinnim/publish-delayed
+
+**OR**
+
+Download zip > Chrome Settings > Extensions > Enable Developer Mode > Drag and Drop the zip.
+
+
+
+## License
+
+All code under MIT

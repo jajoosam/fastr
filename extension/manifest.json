@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "Fastr",
+  "version": "0.1",
+  "description": "Fastr Pages - through less refreshes. Made with turbolinks.js",
+  "icons": { "128": "icon.png" },
+  "content_scripts": [{
+    "js": ["turbolinks.js"],
+    "matches": ["<all_urls>"]
+  }]
+ 
+}
