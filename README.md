@@ -22,9 +22,3 @@ https://chrome.google.com/webstore/detail/fastr/khjpgjjkndhlnokfmfpfphpigeoinnim
 **OR**
 
 Download zip > Chrome Settings > Extensions > Enable Developer Mode > Drag and Drop the zip.
-
-
-
-## License
-
-All code under MIT
