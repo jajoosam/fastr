@@ -4,7 +4,7 @@
 
 Fastr is a chrome extension based on [Turbolinks.js](https://github.com/turbolinks/turbolinks)
 
-It makes a faster user experience possible, because there are generally lesser reloads and browser refreshes.
+It makes a faster user experience possible, because there are generally fewer reloads and browser refreshes.
 
 Here's a demo of how the tech behind fastr works on [Basecamp](https://basecamp.com)
 ![Basecamp Turbolinks Demo](https://s3.amazonaws.com/turbolinks-docs/images/turbolinks.gif)
