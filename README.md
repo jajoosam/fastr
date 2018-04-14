@@ -1,6 +1,7 @@
 # Fastr
 
 ![rocket logo](extension/icon.png)
+
 **7k+ users**
 
 Fastr is a chrome extension based on [Turbolinks.js](https://github.com/turbolinks/turbolinks)
